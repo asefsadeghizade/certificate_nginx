@@ -7,7 +7,7 @@
   "disks": [
     {
       "name": "staticfiles-disk",
-      "mount": "/app/staticfiles"
+      "mountTo": "/app/staticfiles"
     }
   ]
 }
